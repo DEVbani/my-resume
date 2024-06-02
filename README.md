@@ -1,2 +1,2 @@
 # my-resume
-my resume using only html 
+i started learning full stakck web devloping and i had created this resume with only html 
